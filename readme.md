@@ -18,10 +18,6 @@ This game must be installed on a web server.
 
 This was written by one person. If you are interested in contributing, please do so.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **Michael Hernandez** - *Initial work* - [High Plains Design Studio](https://www.highplainsdesignstudio.com)
